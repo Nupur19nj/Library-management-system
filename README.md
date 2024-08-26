@@ -7,3 +7,13 @@ Database used is MySQL
 
 ## Screenshots
 Here are some screenshots of the Library Management System:
+
+![Login Screen](https://github.com/Nupur19nj/Library-management-system/blob/main/demo.jpg)
+*Fig. 1: Login Screen*
+
+
+![Librarian Dashboard](https://github.com/Nupur19nj/Library-management-system/blob/main/mainscreen.jpg)
+*Fig. 2: Librarian Dashboard*
+
+![Add New Book to inventory](https://github.com/Nupur19nj/Library-management-system/blob/main/newBook.jpg)
+*Fig. 3: Add New Book*
